@@ -1,0 +1,17 @@
+[workspace]
+members = [
+    "easy/solve-me-first",
+    "easy/simple-array-sum",
+    "easy/compare-the-triplets",
+
+    "medium/magic-square-forming",
+    "medium/climbing-the-leaderboard",
+    "medium/extra-long-factorials",
+    "medium/non-divisible-subset",
+    "medium/queens-attack2",
+    "medium/the-time-in-words",
+
+    "hard/matrix-rotation-algo",
+]
+
+resolver = "2"
